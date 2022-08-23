@@ -1,0 +1,17 @@
+p {
+  color: rgb(10, 10, 10);
+}
+
+* {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f0f;
+}
+
+.foto {
+  width: 100px;
+  height: auto;
+}
+
+h2 {
+  color: blueviolet;
+}
